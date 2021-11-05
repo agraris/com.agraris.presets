@@ -1,0 +1,31 @@
+{
+    "name": "com.agraris.presets",
+    "version": "1.0.0-alpha.1",
+    "displayName": "Agraris Presets",
+    "description": "Collection of presets for assets importing.",
+    "unity": "2019.3",
+    "unityRelease": "1f1",
+    "keywords": [
+        "utility",
+        "tool",
+        "unity",
+        "presets",
+        "import",
+        "assets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/agraris/com.agraris.presets.git"
+    },
+    "bugs": {
+        "url": "https://github.com/agraris/com.agraris.presets/issues"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@agraris"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Agraris Entertainment",
+        "url": "https://agraris.github.io/"
+    }
+}
